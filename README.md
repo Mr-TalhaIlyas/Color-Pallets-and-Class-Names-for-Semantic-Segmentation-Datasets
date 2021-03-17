@@ -24,3 +24,6 @@ Some of the popular datasets are given below you can also follow the link to dow
 ## Panoptic Segmentation
 
 If you wanna do **panoptic (semantic +  instance) segmenation**, then you will also need a list of *stuff* and *things* classes like in case of vistas and cityscape so I have also provided them inside the scripts.
+Although a lot of semantic segmentation datasets also have their panoptic varients like cityscape, vistas etc. Here I'd like to mention the one I have worked on for panoptic segmentation.
+
+* [PanNuke dataset](https://warwick.ac.uk/fac/cross_fac/tia/data/pannuke)
